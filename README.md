@@ -24,7 +24,7 @@ compliance-ai/
 flowchart TD
     %% Data Sources
     subgraph Data
-        A["S3: MAS PDFs / Circulars"] 
+        A["S3: PDFs / Circulars"] 
     end
 
     %% Ingestion Service
